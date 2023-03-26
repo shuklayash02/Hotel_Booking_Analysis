@@ -6,4 +6,4 @@ primary goal in order to increase their efficiency in generating revenue, and fo
 offer thorough business advice to address this problem.
 The analysis of hotel booking cancellations as well as other factors that have no bearing
 on their business and yearly revenue generation are the main topics of this report.
-By a proper analysis they and conclusion they can decrease their cancelletion rate.
+By a proper analysis  and conclusion they can decrease their cancelletion rate.
