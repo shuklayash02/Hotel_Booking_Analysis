@@ -1,4 +1,4 @@
-# hotel_booking_analysis
+# Hotel_booking_analysis
 City hotel and Resort Hotel have seen high cancellation rates. Each
 hotel is now dealing with a number of issues as a result, including fewer revenues and
 less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels'
